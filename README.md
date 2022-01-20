@@ -1,16 +1,23 @@
-# okprobe
+# Customer App
 
-A new Flutter project.
+This is a project where i designed login screen, drawer, Bottom navigation Bar using custom widgets,also used percent Indicator
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/66877730/150383490-2379f3d8-3884-422b-84a6-1fb54f939905.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/66877730/150383577-d5b90359-9560-45cb-80f9-2be4a72cd776.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/66877730/150383637-58805a73-6e1b-4b8c-994f-c91bbd3366a5.png)
+![image](https://user-images.githubusercontent.com/66877730/150383708-751693ab-ae8c-44b3-b8f3-e5ec324b86c8.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/66877730/150383987-f82ca8d3-d0ff-47bb-9b94-7de7ef574d6f.png)
+
+![image](https://user-images.githubusercontent.com/66877730/150384023-46fbb256-4a22-4a1d-ac3f-bc770f003dd0.png)
+
+
+
+
+
+
+
+
